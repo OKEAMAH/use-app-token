@@ -35,7 +35,7 @@
     "@octokit/auth-app": "^4.0.7",
     "@octokit/core": "^4.1.0",
     "is-base64": "^1.1.0",
-    "libsodium-wrappers": "^0.7.10"
+    "libsodium-wrappers": "^0.7.13"
   },
   "devDependencies": {
     "@bubkoo/commitlint-config": "^1.0.1",
